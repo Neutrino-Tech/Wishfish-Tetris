@@ -3,7 +3,7 @@
 
 <h1>WishFish v3.0</h1>
                                                    
-<p>Using WishFish tool you can generate Teris Game phishing link can grab victim front camera pictures and also gives you lockup information of target ip address.
+<p>Using WishFish tool you can generate Tetris Game phishing link can grab victim front camera pictures and also gives you lockup information of target ip address.
 <p1>
 
 <h3>Installation on Debian</h3>
